@@ -55,19 +55,7 @@ public class SiteManager {
 
 
 
-/*
-	public void add(Site site) throws Exception {
-		
-		if(site.getCoursePrice()<=0) {
-			throw new Exception("Kurs fiyatı 0 dan küçük olamaz");
-		}
-		siteDao.add(site);
-		
-		for (Logger logger: loggers) {
-			logger.log(site.getCourseName());
-			
-		}
-		*/
+
 		
 	
 	
